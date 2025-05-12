@@ -122,10 +122,15 @@ cat new_file4.txt
 
 ## 3) Questions
 1. What does `echo` do?
+Outputs a string or a variable to the terminal.
 2. What does `ls` do?
+Lists the contents of the directory you are currently in.
 3. What happens when you use `>` after `echo`?
+You can redieredt the string into a file
 4. What does `cat` do with one file? With two?
+Prints teh content of the file(s) to ther terminal
 5. What's the difference between `>` and `>>`?
+The > operator overwrites the target file, while >> appends to it.
 6. What do parentheses and `;` do?
 
 ## 4) Advice
